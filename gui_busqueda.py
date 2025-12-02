@@ -1,4 +1,6 @@
-# Modificación 1 para Homework 14
+# Modificación 2 para Homework 14
+print("Modificación 2 ejecutada")
+
 # gui_busqueda.py
 # GUI simple para consultar la tabla `marathon_small` en MySQL
 # Requiere: pip install sqlalchemy pymysql mysql-connector-python
