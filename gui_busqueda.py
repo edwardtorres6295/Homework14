@@ -1,3 +1,4 @@
+# Modificación 1 para Homework 14
 # gui_busqueda.py
 # GUI simple para consultar la tabla `marathon_small` en MySQL
 # Requiere: pip install sqlalchemy pymysql mysql-connector-python
